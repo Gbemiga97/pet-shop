@@ -59,7 +59,7 @@ const Pets = () => {
                 }}
                 key={id} className="relative cursor-pointer">
                   <div className={`h-full w-full absolute rounded-full
-                  ${petIndex == id ? 'ring ring-white' : 'bg-black/40 '}`} />
+                  ${petIndex === id ? 'ring ring-white' : 'bg-black/40 '}`} />
                   <img
                   width={95}
                   height={96}

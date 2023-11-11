@@ -27,7 +27,7 @@ import ServicesBg from '../img/services/bg.png'
 import ServiceIcon1 from '../img/services/service-icon1.svg'
 import ServiceIcon2 from '../img/services/service-icon2.svg'
 import ServiceIcon3 from '../img/services/service-icon3.svg'
-
+import FooterLogo from '../img/footer/Pet-First.svg'
 
 
 const images = {
@@ -60,6 +60,8 @@ const images = {
     ServiceIcon1,   
     ServiceIcon2,
     ServiceIcon3,
+    FooterLogo,
+
 }
 
 
